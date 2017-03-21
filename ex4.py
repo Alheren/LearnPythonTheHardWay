@@ -1,3 +1,9 @@
+"""
+# LPTHW - Exercise 4 - Variables and Names
+
+"""
+
+#Ignore the pylint errors here, these are variables, not constnants
 cars = 100
 space_in_a_car = 4.0
 drivers = 30
